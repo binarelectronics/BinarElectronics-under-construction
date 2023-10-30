@@ -74,6 +74,12 @@
       <p><span>Address:</span> Argesului no.14, Baia Mare, Romania</p>
     </div>
   </footer>
+  <script>
+    if (window.location.protocol === 'http:' && window.location.host !== 'localhost') {
+      // Redirect to the HTTPS version of the same URL
+      window.location.href = 'https://' + window.location.host + window.location.pathname;
+    }
+  </script>
 </body>
 
 </html>
