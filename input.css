@@ -10,7 +10,7 @@ main {
 }
 
 img.logo {
-	@apply block object-cover object-center h-48 mx-auto mb-8;
+	@apply block object-cover object-center h-48 mx-auto mb-12;
 	@apply max-xl:h-40;
 	@apply max-lg:h-32;
 	@apply max-md:h-full px-4;
@@ -25,7 +25,7 @@ div.services h3 {
 }
 
 p.desc {
-	@apply max-w-prose mx-auto text-xl mb-5;
+	@apply max-w-screen-lg mx-auto text-xl mb-12;
 }
 
 div.card-container {
@@ -33,7 +33,7 @@ div.card-container {
 }
 
 div.card {
-	@apply flex flex-col items-center justify-center shadow-lg rounded p-8 gap-10 m-2 flex-shrink-0 text-center;
+	@apply flex flex-col items-center justify-center shadow-lg rounded p-8 pb-6 gap-6 m-2 flex-shrink-0 text-center;
 	@apply max-sm:flex-1;
 }
 
@@ -45,6 +45,10 @@ footer {
 	@apply bg-stone-600 text-xl flex justify-center flex-wrap flex-shrink-0 text-white py-16;
 }
 
+footer img {
+	@apply w-48 h-48 mb-8 md:mb-0;
+}
+
 footer span {
 	@apply font-bold text-2xl;
 }
@@ -54,5 +58,5 @@ footer a {
 }
 
 div.contact {
-	@apply flex flex-col justify-center p-8 gap-2;
+	@apply flex flex-col justify-center ps-8 gap-2;
 }
