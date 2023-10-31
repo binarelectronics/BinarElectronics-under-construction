@@ -698,8 +698,6 @@ footer span {
 }
 
 footer a {
-  --tw-text-opacity: 1;
-  color: rgb(25 100 51 / var(--tw-text-opacity));
   text-decoration-line: underline;
 }
 

@@ -54,7 +54,7 @@ footer span {
 }
 
 footer a {
-	@apply text-circuit-green underline;
+	@apply underline;
 }
 
 div.contact {
