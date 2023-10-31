@@ -20,6 +20,10 @@ img.icon {
 	@apply w-16 h-16;
 }
 
+img.qr {
+	@apply max-md:hidden;
+}
+
 div.services h3 {
 	@apply text-3xl font-bold text-center mb-4 text-circuit-green;
 }
