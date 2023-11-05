@@ -623,13 +623,17 @@ div.services h3 {
   color: rgb(25 100 51 / var(--tw-text-opacity));
 }
 
-p.desc {
+div.desc {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 3rem;
   max-width: 1024px;
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+div.desc p {
+  margin-bottom: 0.75rem;
 }
 
 div.card-container {
