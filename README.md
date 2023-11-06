@@ -2,9 +2,7 @@
 
 ![Binar Electronics Logo](public/assets/logo.png)
 
-**Note: This is a prototype of the Binar Electronics landing page. For the most current and actively developed version of our website, please visit our [active development repository](https://github.com/binarelectronics/binarelectronics.ro-under-construction).**
-
-Welcome to the official repository of the Binar Electronics "Coming Soon!" website prototype. This prototype showcases our PCB and Embedded Software services, providing information about who we are, what we do, and how to contact us. Whether you are an electronics enthusiast or a potential client, this repository is a sneak peek into our world of innovative electronic product development.
+This is a prototype of the Binar Electronics "Coming Soon!" website prototype. This prototype showcases our PCB and Embedded Software services, providing information about who we are, what we do, and how to contact us. Whether you are an electronics enthusiast or a potential client, this repository is a sneak peek into our world of innovative electronic product development.
 
 ## Table of Contents
 
