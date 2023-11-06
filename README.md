@@ -70,6 +70,4 @@ You can reach us via:
 
 - **Email**: [contact@binarelectronics.ro](mailto:contact@binarelectronics.ro)
 
-- **Address**: Argesului no. 14, Baia Mare, Romania
-
 Feel free to [visit our website](https://binarelectronics.ro) to learn more about our services and stay up-to-date with our latest developments.
