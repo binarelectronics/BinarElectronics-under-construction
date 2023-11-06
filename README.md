@@ -73,5 +73,3 @@ You can reach us via:
 - **Address**: Argesului no. 14, Baia Mare, Romania
 
 Feel free to [visit our website](https://binarelectronics.ro) to learn more about our services and stay up-to-date with our latest developments.
-
-Thank you for visiting our prototype repository! We look forward to helping you with your electronics projects in the future. For the latest updates, please check our [active development repository](https://github.com/binarelectronics/binarelectronics.ro-under-construction).
