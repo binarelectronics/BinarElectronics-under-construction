@@ -1,6 +1,6 @@
 # Binar Electronics Prototype Landing Page
 
-![Binar Electronics Logo](assets/logo.png)
+![Binar Electronics Logo](public/assets/logo.png)
 
 **Note: This is a prototype of the Binar Electronics landing page. For the most current and actively developed version of our website, please visit our [active development repository](https://github.com/binarelectronics/binarelectronics.ro-under-construction).**
 
@@ -68,7 +68,7 @@ We offer a range of services in the field of electronics:
 
 You can reach us via:
 
-- **Phone**: +40 766 220 126
+- **Phone**: +40 784 438 399
 
 - **Email**: [contact@binarelectronics.ro](mailto:contact@binarelectronics.ro)
 
